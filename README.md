@@ -34,7 +34,3 @@ The system allows a user to select a bank, authenticate using a PIN, and perform
 - PIN, balance, and transaction history are protected
 - Access is provided only through class methods
 
----
-
-## 🏗️ Class Structure
-
